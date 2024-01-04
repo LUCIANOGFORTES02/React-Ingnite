@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+- Url da aplicação gitPages: https://lucianogfortes02.github.io/React-Ingnite/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
