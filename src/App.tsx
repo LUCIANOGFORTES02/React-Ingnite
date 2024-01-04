@@ -28,7 +28,7 @@ const posts=[
   },
   {
   id:2,
-  author:{
+  author:{ 
     avatarUrl: 'https://github.com/maykbrito.png',
     name: 'Mayk Brito',
     role:'FullStack'
